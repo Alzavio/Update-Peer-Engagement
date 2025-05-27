@@ -1,1 +1,14 @@
 # Update-Peer-Engagement
+
+
+    Write a Post: Create a public post (preferably on LinkedIn) summarizing your practicum project work over the past four weeks.
+    Share on Slack: Post the link to your public post in the designated thread in the practicum Slack channel.
+    Engage with Peers: Comment on and react to your classmates' posts using the links shared in Slack.
+    Submit Proof on Canvas: Submit evidence of your Slack post and peer engagement to this Canvas assignment.
+
+Most of my work has now revolved around the shift app, where I've learned how to get set up with supabase, and how that platform and software works, and integrated sign in and sign up authentication system into the applications. This has been pretty new for me. I did briefly use supabase years ago, when I was shopping around for cloud postgres solution for a project, but I didn't know how little I knew. The built in authentication schema is definitely something I will keep in mind for any future projects of mine, even if it has somewhat low limits. I'm working on completing a feature to hide options based on permissions, which requires requesting a signed in users permissions, and making sure that actually persists in a form of local storage. The issue I'm running into is understanding how the api works, but I am still working on it.
+
+In the very beginning of this class though, I did work breifly on NSC Events on the ability to unattend an event, and some bug fixes.
+
+https://github.com/SeattleColleges/nsc-events-nextjs/pull/649
+https://github.com/SeattleColleges/nsc-events-nextjs/pull/645
