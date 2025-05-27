@@ -10,5 +10,7 @@ Most of my work has now revolved around the shift app, where I've learned how to
 
 In the very beginning of this class though, I did work breifly on NSC Events on the ability to unattend an event, and some bug fixes.
 
+My current roadblock is not being able to figure out why add shift still sort of appears on the menu options for the shift app. There is nothing that I can find that is causing that, even when I delete all references to add-shift or "Add Shift".
+
 https://github.com/SeattleColleges/nsc-events-nextjs/pull/649
 https://github.com/SeattleColleges/nsc-events-nextjs/pull/645
