@@ -1,0 +1,5 @@
+# Update-Peer-Engagement
+
+The past few weeks I have continued to mostly focus on the shift app, where I've continued my role as a developer, but both for mobile and web, adding new improvements such as new tests, trying to upgrade a package on the project after a security issue, making the 'Add a Shift' on the menu bar dynamic, and modifying the authentication system I had added to work with web. However most of my pull request review work has continued to be on NSC events, and I have contributed to some small changes on that project (mostly from prior pull requests now being reviewed), as well. 
+
+It has been an interesting experience to (re-)learn how to create tests in React native, especially using Supabase, which I've gotten very familiar with over the last few weeks. A challenge I had was finding alternatives to certain expo features that were already being used to handle saving information related to authentication on web, which turned out to be much easier than I had expected once I remembered I could check for the users operating system, then use cookies or localstorage if they were a web user.
